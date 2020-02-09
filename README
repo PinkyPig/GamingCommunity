@@ -1,9 +1,25 @@
-This is a project involve with building models to solve the following 5 questions.
+KyngaCell, one of the leaders in mobile gaming, introduced a new online community feature for their
+latest game, Nicht-Soporific. To test the effectiveness and impact of the online community, we sought to
+determine and quantify if it improved user revenue and retention within the game along with an increase
+in customer lifetime value (CLV). The data provided details of individuals who play the game, who
+participate in the community, spending by gamers one month prior and subsequent to the release of the
+online community, customer age, and acquisition method (Campaign/Organic) for each user.
+Upon analyzing the data, we concluded that:
 
-Introducing an Online Community at KyngaCell
+● The online community resulted in increased revenue. The mean revenue for users who joined the
+online community increased by $29 as compared to the ones who did not join.
 
-(1)    Has the online community increased user revenue? (1.5 points)
-(2)    Has the online community led to increased retention? (1.5 points)
-(3)    Has the online community led to an increase in CLV? (Assume a margin of 50% of customer spend) (1.5 points)
-(4)    provide information on the magnitude of change in user revenue, retention and CLV due to the introduction of the online community, in other words, you will quantify the effect of introducing the online community in multiple ways, and will also discuss potential limitations of the analysis. (1.5 points)
-(5)    Your industrious self decides to expand on the questions asked of you using this new variable, and provide more value to the team. What metrics can you create using this new variable? How would they be useful to the team, CAO or CFO? What new insights might you generate that provide more clarity to this crucial marketing function? (2 points)
+● The online community did not lead to increased retention. The retention rate for users who joined
+the community was less than that for those who did not join.
+
+● The online community feature had a positive ef ect on CLV. The average CLV for users who
+joined the program increased by $9 in contrast to the ones who did not.
+
+● The effect of the customer acquisition method on CLV is inconclusive. There was no significant
+difference in the CLV between the users who joined the program organically and those who
+joined as a result of the campaign.
+
+In the end, the success of a new feature does not depend on how well it is marketed but on how well it
+addresses a user’s needs. Even though findings suggest a review of marketing & customer retention
+strategies, a more comprehensive approach to collecting data pertaining to acquisition cost and user
+demographics is required to arrive at more meaningful conclusions.
